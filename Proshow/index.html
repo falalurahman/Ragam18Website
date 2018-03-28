@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pro Shows - Ragam '18</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/pro-show.css" />
+    <link rel="stylesheet" type="text/css" href="css/hover-min.css" />
+    <script src="js/jquery.min.1.7.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+        document.documentElement.className = 'js';
+    </script>
+</head>
+
+<body>
+    <svg class="hidden">
+        <symbol id="icon-arrow" viewBox="0 0 24 24">
+            <title>arrow</title>
+            <polygon points="6.3,12.8 20.9,12.8 20.9,11.2 6.3,11.2 10.2,7.2 9,6 3.1,12 9,18 10.2,16.8 " />
+        </symbol>
+        <symbol id="icon-menu" viewBox="0 0 24 24">
+            <title>menu</title>
+            <path d="M24,5.8H0v-2h24V5.8z M19.8,11H4.2v2h15.6V11z M24,18.2H0v2h24V18.2z" />
+        </symbol>
+        <symbol id="icon-cross" viewBox="0 0 24 24">
+            <title>cross</title>
+            <path d="M13.4,12l7.8,7.8l-1.4,1.4l-7.8-7.8l-7.8,7.8l-1.4-1.4l7.8-7.8L2.7,4.2l1.4-1.4l7.8,7.8l7.8-7.8l1.4,1.4L13.4,12z" />
+        </symbol>
+    </svg>
+    <div class="container">
+        <div class="scroller">
+            <div class="room room--current">
+                <div class="room__side room__side--back" style="background-image:url('img/aron-back.jpg')">
+                    <img class="room__img" src="img/aronchuppa.png" alt="Aron Chupa" />
+                    <img class="room__img" src="img/AronChupa-Final.png" />
+                    <img class="lights" src="img/lights.png">
+                    <img class="back" src="img/back.png">
+                </div>
+                <div class="room__side room__side--left">
+                </div>
+                <div class="room__side room__side--right">
+                </div>
+                <div class="room__side room__side--bottom"></div>
+            </div>
+            <!-- /room -->
+            <div class="room">
+                <div class="room__side room__side--back" style="background-image:url('img/vishal-back.jpg')">
+                    <img class="room__img vishal-front" src="img/vishal-dadlani.png" alt="Vishal Dadlani" />
+                    <img class="room__img vishal" src="img/vishal-final.png" />
+                    <img class="lights" src="img/lights.png">
+                    <img class="back" src="img/back-2.png">
+                </div>
+                <div class="room__side room__side--left">
+                </div>
+                <div class="room__side room__side--right">
+                </div>
+                <div class="room__side room__side--bottom"></div>
+            </div>
+            <!-- /room -->
+            <div class="room">
+                <div class="room__side room__side--back" style="background-image:url('img/local-train-back.jpg')">
+                    <img class="room__img local-train" src="img/local-train.png" alt="Aron Chupa" />
+                    <img class="room__img" src="img/AronChupa-Final.png" style="visibility:hidden" />
+                    <img class="lights" src="img/lights.png">
+                    <img class="back" src="img/back.png">
+                </div>
+                <div class="room__side room__side--left">
+                </div>
+                <div class="room__side room__side--right">
+                </div>
+                <div class="room__side room__side--bottom"></div>
+            </div>
+            <!-- /room -->
+
+            <div class="room">
+                <div class="room__side room__side--back" style="background-image:url('img/seen-back.jpg')">
+                    <img class="room__img" src="img/rishabh-seen.png" alt="Aron Chupa" />
+                    <img class="room__img" src="img/AronChupa-Final.png" style="visibility:hidden" />
+                    <img class="lights" src="img/lights.png">
+                    <img class="back" src="img/back.png">
+                </div>
+                <div class="room__side room__side--left">
+                </div>
+                <div class="room__side room__side--right">
+                </div>
+                <div class="room__side room__side--bottom"></div>
+            </div>
+            <!-- /room -->
+        </div>
+    </div>
+    <!-- /container -->
+    <div class="content">
+        <header class="codrops-header">
+            <h1 class="codrops-header__title">Ragam '18</h1>
+            <button class="btn btn--menu btn--toggle">
+                <svg class="icon icon--menu" style="color:white">
+                    <use xlink:href="#icon-menu"></use>
+                </svg>
+                <svg class="icon icon--cross">
+                    <use xlink:href="#icon-cross"></use>
+                </svg>
+            </button>
+            <div class="overlay overlay--menu">
+                <ul class="menu">
+                    <li class="menu__item menu__item--current">
+                        <a class="menu__link" href="../">Home</a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href=../>Events</a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="../Workshop/">Workshops</a>
+                    </li>
+                    <li class="menu__item">
+                        <a class="menu__link" href="#">ProNites</a>
+                    </li>
+                    <li class="menu__item login">
+                        <a class="menu__link" href="#">Login</a>
+                    </li>
+                    <li class="menu__item barcode">
+                        <a class="menu__link" href="../Barcode">Profile</a>
+                    </li>
+                    <li class="menu__item logout">
+                        <a class="menu__link" href="../Login/logout.php">Logout</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="overlay overlay--info">
+                <p class="info">&ldquo;Life in Pieces&rdquo; is the subject of all exhibitions taking place in the Mirai Art Gallery in 2017.
+                    Fragments of lost memories, fleeting moments and the breaking apart of human nature are this year's highlighted
+                    topics. We welcome you to a exploration space of a unique kind&mdash;the one that will stay with you
+                    and impact you on many levels. Come visit us.</p>
+            </div>
+        </header>
+        <h4 class="location">Pro Shows-Ragam '18, Open Air Theatre, NITC</h4>
+        <div class="slides">
+            <div class="slide">
+                <h2 class="slide__name">Aron
+                    <br/>Chupa</h2>
+                <h3 class="slide__title">
+                    <span>&ldquo;I'm An Albatraoz&rdquo;</span>
+                    <div class="slide__number hvr-grow" onclick="bookProshowTicket('Proshow Day 3')">
+                        <strong>Buy Ticket</strong>
+                    </div>
+                </h3>
+                <p class="slide__date">25 March 2018</p>
+            </div>
+            <div class="slide">
+                <h2 class="slide__name">Vishal
+                    <br/>Sekhar</h2>
+                <h3 class="slide__title">
+                    <span>&ldquo;Swag Se Swagat&rdquo;</span>
+                    <div class="slide__number hvr-grow" onclick="bookProshowTicket('Proshow Day 1')">
+                        <strong>Buy Ticket</strong>
+                    </div>
+                </h3>
+                <p class="slide__date">23 March 2018</p>
+            </div>
+            <div class="slide">
+                <h2 class="slide__name">The Local
+                    <br/>Train</h2>
+                <h3 class="slide__title">
+                    <span>&ldquo;Aaoge Tum Kabhi&rdquo;</span>
+                    <div class="slide__number hvr-grow" onclick="bookProshowTicket('Proshow Day 2')">
+                        <strong>Buy Ticket</strong>
+                    </div>
+                </h3>
+                <p class="slide__date">24 March 2018</p>
+            </div>
+
+            <div class="slide">
+                <h2 class="slide__name">Rishabh
+                    <br/>Seen</h2>
+                <h3 class="slide__title">
+                    <span>&ldquo;It All Ends Here&rdquo;</span>
+                    <div class="slide__number hvr-grow" onclick="bookProshowTicket('Proshow Day 3')">
+                        <strong>Buy Ticket</strong>
+                    </div>
+                </h3>
+                <p class="slide__date">25 March 2018</p>
+            </div>
+
+        </div>
+        <nav class="nav">
+            <button class="btn btn--nav btn--nav-left">
+                <svg class="nav-icon nav-icon--left" width="42px" height="12px" viewBox="0 0 70 20">
+                    <path class="nav__triangle" d="M52.5,10L70,0v20L52.5,10z" />
+                    <path class="nav__line" d="M55.1,11.4H0V8.6h55.1V11.4z" />
+                </svg>
+            </button>
+            <button class="btn btn--nav btn--nav-right">
+                <svg class="nav-icon nav-icon--right" width="42px" height="12px" viewBox="0 0 70 20">
+                    <path class="nav__triangle" d="M52.5,10L70,0v20L52.5,10z" />
+                    <path class="nav__line" d="M55.1,11.4H0V8.6h55.1V11.4z" />
+                </svg>
+            </button>
+        </nav>
+    </div>
+    <!-- /content -->
+    <div class="overlay overlay--loader overlay--active">
+        <div class="loader">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <script src="js/anime.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        var loggedIn = -1;
+        var redirectUrl;
+
+        $(window).on("load", function () {
+            checkLogin();
+        });
+
+        function checkLogin() {
+            $.post('../Login/checkLogin.php', {},
+                function (data) {
+                    var data_decoded = JSON.parse(data);
+                    var status = data_decoded['status'];
+
+                    if (status === "Success") {
+                        loggedIn = 1;
+                        $(".login").remove();
+                    } else {
+                        loggedIn = 0;
+                        redirectUrl = data_decoded['redirectUrl'];
+                        $(".barcode").remove();
+                        $(".logout").remove();
+                        $(".login").click(function () {
+                            window.location.href = data_decoded['redirectUrl'];
+                        });
+                    }
+                });
+        }
+    </script>
+</body>
+
+</html>

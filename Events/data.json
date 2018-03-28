@@ -1,0 +1,412 @@
+{
+	"DANCE": [{
+			"id": "EID001",
+			"name": "Choreo Nite",
+			"description": "Dance, as they say, is the language of the body and soul. An art best expressed when broken free from all else. This Ragam, mesmerize the crowd with your moves at Choreo Nite. Set your soul free and let the magic begin.<br> The event is mainly split into Thematic(generally contemporary, eastern and semi-classical) and Non-Thematic(generally hip-hop,Bollywood and western). This year, Participating teams have an exclusive opportunity to audition for Hip Hop International World Championships that gives you the exclusive chance to go against the best dance teams in the world.",
+			"prize": "<h4>Thematic</h4>First Prize: ₹30000<br>Second Prize: ₹20000<br><br><h4>Non-Thematic</h4>First Prize: ₹30000<br>Second Prize: ₹20000",
+			"contact": "<h4>Ajay Mathew:</h4>7034111676<br><h4>Navya Dennis:</h4>9496290452"
+		},
+		{
+			"id": "EID002",
+			"name": "Dance Off",
+			"description": "Think you&#39;ve got a dancer&#39;s spark in you? Face off with your killer moves and leave your opponent dumb struck! This Ragam, let your body do all the speaking. Be spontaneous, be original! Tough competition awaits on the other side.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000<br>Third prize: ₹1000",
+			"contact": " Yuvraj:</h4>8248724835<br><h4>Chanakya:</h4> 9497088437"
+		},
+		{
+			"id": "EID003",
+			"name": "Freestyle",
+			"description": "Dancing is an art that never runs out of fresh ideas. Do you think you are an innovator? Do you have some crazy new step combination at your feet? Well then dance it off against the best in South India at Freestyle and do your thang!",
+			"prize": "First Prize: ₹5000<br>Second Prize: ₹3000<br>Third prize: ₹2000",
+			"contact": "<h4> Malavika:</h4>9995462228<br><h4>Satish:</h4> 8985221613<br><h4>Harshini:</h4> 9037528102"
+		},
+		{
+			"id": "EID004",
+			"name": "Tangled",
+			"description": " Conquer the rhythm and sway with the melody as you and your partner showcase talent and finesse. This Ragam, live the beat with your dance steps and get tangled talking in the language of the soul.",
+			"prize": "First Prize: ₹5000<br>Second Prize: ₹3000<br>Third prize: ₹2000",
+			"contact": "<h4> Supraja:</h4>9494058968<br><h4>Satish:</h4> 8985221613<br><h4>Sachin:</h4> 9847356339"
+		}
+	],
+	"DRAMATICS": [{
+			"id": "EID005",
+			"name": "Drama",
+			"description": " The knot in your gut just when you are about to mount the stage followed by the contentment of putting up a brilliant act from a two-line idea. Drama is a way of reconstructing yourself. A passion for theatre and the zeal to act is all you need to set the stage on fire. The ultimate arena for actors, directors and script-writers alike, this is where the action happens. Ragam is here and it can't get more dramatic!",
+			"prize": "First Prize: ₹20000<br>Second Prize: ₹10000<br>Third prize: ₹5000",
+			"contact": "<h4>Saurav:</h4>9497192016<br><h4>Elizabeth:</h4>9497056384<br><h4>Ananthu:</h4>8281107593"
+		},
+		{
+			"id": "EID006",
+			"name": "Improv",
+			"description": " There are no mistakes in improv, only opportunities. Tune your feet with ticking time and deliver those punch lines filling the arena with immense emotions. Do you think you have the power of spontaneity and creative chaos at your fingertips?",
+			"prize": "First Prize: ₹2500<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": " Adithya:</h4>9003003699<br><h4>Archana:</h4> 9605719776<br><h4>Asmita:</h4> 8848164784"
+		},
+		{
+			"id": "EID007",
+			"name": "Mime",
+			"description": " The world is divided by thousands of languages, yet this is the art which knows no such barriers. The art that proves actions indeed speak louder than words. Do you think you can speak your mind with everything but the tongue? Come, be a part of the Mime competition this Ragam and bring the plethora of expressions to stage. The silence will be heard.",
+			"prize": "First Prize: ₹20000<br>Second Prize: ₹10000",
+			"contact": "<h4> Saurav:</h4>9497192016<br><h4>Archana:</h4> 9605719776<br><h4>Chanakya:</h4> 9497088437"
+		},
+		{
+			"id": "EID008",
+			"name": "Movie Spoof",
+			"description": " Have you got what it takes to give a little spin to your favorite movies and leave the audience in splits? Then movie spoof is the event for you! From rib-tickling dialogues to spell binding action, get creative and get spoofing.",
+			"prize": "First Prize: ₹15000<br>Second Prize: ₹10000",
+			"contact": "<h4> Sooraj:</h4>8281944626<br><h4>Shankar:</h4> 9037055564<br><h4>Sachin:</h4> 9847356339"
+		},
+		{
+			"id": "EID009",
+			"name": "Stand Up Comedy",
+			"description": " Ever made a sarcastic comment that was supposed to be a burn, but the other person began laughing instead? Then you’ve got what it takes to be a stand-up comedian. Bring your wit and humor to the center stage and lighten the mood in Ragam 18’ Stand up Comedy.",
+			"prize": "First Prize: ₹2500<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": "<h4> Mufeed:</h4>8137054202<br><h4>Satish:</h4> 8985221613<br><h4>Shankar:</h4> 9037055564"
+		},
+
+		{
+			"id": "EID010",
+			"name": "Streetplay",
+			"description": " Who needs the stage when you can hit the streets? Streetplay is a powerful platform to raise awareness about issues that plague our soil and fuel up emotions. This Ragam make the 'circle' come alive with acting, dancing, reciting and music. Ignite the fire within you and bring the change you wish to see.",
+			"prize": "First Prize: ₹20000<br>Second Prize: ₹10000",
+			"contact": "<h4> Ardra S Joy:</h4>9562707933<br><h4>Shankar:</h4> 9037055564"
+		}
+
+	],
+	"GENERAL": [{
+			"id": "EID011",
+			"name": "Antakshari (Hindi)",
+			"description": " Calling out all the filmy song lovers who have the lyrics at the tip of their tongues. If you think you know every song to the core, take up the challenge of Antakshari. In this battle of songs where words matter more than the melody, get ready to unleash the Bolly freak in you.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": " <h4>Thakur Rishabh:</h4>8089907543<br><h4> Asmita Das :</h4>8848164784"
+		},
+		{
+			"id": "EID012",
+			"name": "Antakshari (Mal)",
+			"description": " Reckon yourself to be the expert of songs from various genres, movies and alphabets? Antakshari is just the event for you to showcase your undying love for songs and sing your heart out while you're at it!",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": "<h4>Ardra S:</h4>9562707933<br><h4> Mathew Sebi Joji:</h4> 9495386413"
+		},
+		{
+			"id": "EID013",
+			"name": "Couture Boulevard",
+			"description": " The stage is set and the lights focused. Get ready to experience the ultimate fashion extravaganza! Bring in your colours and styles and leave the audience in awe. With latest up-beat music, walk the ramp like you own it. After all, Couture Boulevard is the ultimate runway!",
+			"prize": "First Prize: ₹50000<br>Second Prize: ₹30000",
+			"contact": "<h4>Harshini:</h4>9037528102"
+		},
+		{
+			"id": "EID014",
+			"name": "Criminal Minds",
+			"description": " The culprits remain shrouded under a veil of deceiving faces and cooked up alibis. All answers lay naked, but only for vigilant eyes. Observe, deduce, investigate and apprehend. The quest for truth ensues at Ragam '18 Crime Scene Investigation.",
+			"prize": "First Prize: ₹5000",
+			"contact": "<h4>Suryanshu:</h4>9497229537<br><h4>Elizabeth:</h4>9497056384"
+		},
+		{
+			"id": "EID015",
+			"name": "Dumb Charades (English)",
+			"description": " Pursed lips, gleaming eyes and a raising mind. This is a shoutout to those of you who feel you're a veteran at figuring out what's what while mimicking it to next person. This Ragam, bring in your squad as you go against the best out there while we take your classic DUMB CHARADES to a whole new level.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": "<h4>Navya:</h4>9496290452<br><h4>Athul Kumar:</h4>8943680758"
+		},
+		{
+			"id": "EID016",
+			"name": "Dumb Charades (Hindi)",
+			"description": " It has been said that in the land of the dumb, the man with a voice would be the king. But it is time to prove them wrong. Do you pride yourself for recognizing movies from just mere actions? Ragam'18 provides you the perfect stage to showcase your talent. So gear up to unleash your skills and witness the battle of charades like you have never before.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": "<h4>Navya U:</h4>9633973554<br><h4>Aysha:</h4>9496395634<br><h4>Divya:</h4>8281910015"
+		},
+
+		{
+			"id": "EID052",
+			"name": "Dumb Charades (Mal)",
+			"description": " It has been said that in the land of the dumb, the man with a voice would be the king. But it is time to prove them wrong. Do you pride yourself for recognizing movies from just mere actions? Ragam'18 provides you the perfect stage to showcase your talent. So gear up to unleash your skills and witness the battle of charades like you have never before.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1500<br>Third prize: ₹1000",
+			"contact": "<h4>Uddhav:</h4>8137008044<br><h4>Divyansh:</h4>7994238338"
+		},
+		{
+			"id": "EID017",
+			"name": "Fury (Basketball)",
+			"description": " Can't stay off the court? Can't lose sight of the hoop? Take part in the 3 Day Championship that witnesses some of the best talent out there in Basketball as South India's foremost teams clash against each other. Are you prepared to dribble, duck, run and dunk your name into the hall of fame?",
+			"prize": "First Prize: ₹12000<br>Second Prize: ₹8000",
+			"contact": "<h4> Malavika Sivan:</h4>8089495180<br><h4>Athul:</h4>9567760217"
+		},
+		{
+			"id": "EID018",
+			"name": "Mr&Ms Ragam",
+			"description": " Most people are shy when put in the spotlight. But not you. You were born in it. The stage is your birthright. But there are others out to claim it. Show them their place and prove to us and everyone out there that you are the best there is in ‘Mr. and Ms. Ragam’.",
+			"prize": "Mr Ragam: ₹10000<br>Ms Ragam: ₹10000",
+			"contact": "<h4> Arsha:</h4>9567440808<br><h4>Neelima:</h4>9447912648"
+		},
+		{
+			"id": "EID019",
+			"name": "Salt and Pepper",
+			"description": " Cooking is like painting. Just as there are only so many colors, there are only so many flavors. This Ragam, we present the biggest canvas to capture the passion of the art. Bring souls to recipes, and, Salt and Pepper your creations to victory.",
+			"prize": "First Prize: ₹5000<br>Second Prize: ₹3000",
+			"contact": "<h4> Adityan:</h4>9995245409<br><h4> Divya Joshy:</h4>8281910015"
+		},
+		{
+			"id": "EID020",
+			"name": "Treasure Hunt",
+			"description": " Here's a challenge for the inquisitive, an adventure for the junkie. This expedition will get both your brains and your legs running. Experience the rush of adrenaline at Ragam Treasure Hunt as you wade through clues and codes to ultimately attain the Holy Grail.",
+			"prize": "First Prize: ₹10000",
+			"contact": "<h4> Ananthu:</h4>8281107593<br><h4> Anjali:</h4>9400561089"
+		}
+	],
+	"FINEARTS": [{
+			"id": "EID021",
+			"name": "Face to Face",
+			"description": " The beauty of art partly lies in where it's hung. This Ragam, unleash your creativity and beat the clock to render the wackiest of designs, as you and your partner indulge in the art of face painting, face to face.",
+			"prize": "First Prize: ₹1500<br>Second Prize: ₹1000<br>Third prize: ₹500",
+			"contact": "<h4> Anagha:</h4>8301883815<br><h4> Ann Eapen:</h4>9656340006"
+		},
+		{
+			"id": "EID022",
+			"name": "Fine arts Marathon",
+			"description": " Come quick, time is your enemy. When your legs get tired, run with your hands and minds. Complete a series of artistic events to come out on top of the bunch. Pour your hearts out as your skills and endurance get tested en-route to making immortal masterpieces.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1250<br>Third prize: ₹750",
+			"contact": "<h4> Anagha:</h4>8301883815<br><h4> Ann Eapen:</h4>9656340006"
+		},
+		{
+			"id": "EID023",
+			"name": "Mehendi",
+			"description": " This Ragam, showcase your artistic skills with 'Mehendi'! All you need is a creative hand to mesmerize the world. Bring in your creative ethnic designs and raise the bar for the competitors.",
+			"prize": "First Prize: ₹1500<br>Second Prize: ₹1000<br>Third prize: ₹500",
+			"contact": "<h4> Anagha:</h4>8301883815<br><h4> Ann Eapen:</h4>9656340006"
+		},
+		{
+			"id": "EID024",
+			"name": "Sketching",
+			"description": " Drawing is an expression of creativity, so simple but yet so tremendously powerful.  A true artist is one who's willing to step out of the crowd and let his creativity power his hands. Sketching at Ragam offers you a canvas to your imagination, to give shape to your thoughts and ideas. So, grab hold of your pencils, let your imagination run wild and sketch your heart out.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1250<br>Third prize: ₹750",
+			"contact": "<h4> Anagha:</h4>8301883815<br><h4> Ann Eapen:</h4>9656340006"
+		}
+	],
+	"KALOLSAVAM": [{
+			"id": "EID026",
+			"name": "Classical Dance",
+			"description": " Lord Shiva or 'Nataraja', the King of all dances is said to perform the Cosmic Dance that delicately balances life and death and all that is happening in the Universe in harmonious cycles. An eternal art having come from the heavens down to the earth to inspire and uplift the suffering humans. Indian classical dance is meant to bring joy to every soul. Embodying religion, philosophy, and mythology, the classical dances of India offer otherworldly beauty and a spiritual, and sometimes humorous, experiences for the audience. Lose yourself in the divinity, grace, beauty and tenderness of Indian classical dance. Participate in the most graceful competition this Ragam: The Classical Dancing Competition.",
+			"prize": " First Prize: ₹6000<br>Second Prize: ₹4000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID027",
+			"name": "Classical Music Solo",
+			"description": "'Where words fail, music speaks.' Lose yourself in a magical atmosphere as you are taken on a symphonic ride this Ragam. Blend your love and emotions to captivate the audience melodically and rhythmically. Show of your skills with your soothing voice and encapsulate the beauty of classical music in the air.",
+			"prize": "First Prize (Male): ₹3000<br>Second Prize (Male): ₹2000<br>First Prize (Female): ₹3000<br>Second Prize (Female): ₹2000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID028",
+			"name": "Mimicry",
+			"description": "'Ridicule is the tribute paid to the genius by the mediocrities' - Oscar Wilde<br> Glide between impersonations of prominent political figures, comic movie characters and famed media celebrities as you critique and ridicule their style. Enliven the ordinary with nothing but your dynamic vocal chords and wicked sense of humor.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID029",
+			"name": "Monoact",
+			"description": " The charm of narrating a tale comes with the ability to give life to its characters. It is the characters themselves that make the essence of every tale. At Mono Act Ragam'18, bring them alive as you voice your story and jaunt through the emotions of diverse roles.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID030",
+			"name": "Kolukali",
+			"description": " Unravel the beauty of the tradition and get your team to overpower the enthralling beats, awe-inspiring coordination and swift movements of the best kolkali teams coming from all over the country this Ragam.",
+			"prize": "First Prize: ₹12000<br>Second Prize: ₹8000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID031",
+			"name": "Daffumuttu",
+			"description": " Duffumuttu has forever been a central element of culture in the Malabar region and continues to find its way into the hearts and minds of millions. At Ragam 18', spectate or play the duff with your troupe, give in to the rhythmic beat of the palm on the duff, and exude happiness from every crevice of your soul and body.",
+			"prize": "First Prize: ₹12000<br>Second Prize: ₹8000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		},
+		{
+			"id": "EID032",
+			"name": "Mappilappattu",
+			"description": " It's time to pump up the excitement and bring the crowd to their feet with the fast paced and groovy Mappilapattu. Feel the music in the air as Ragam brings you the best of the best from all over Kerala. Think you have it in you to make audience dance to your rhythm? Come over and find out.",
+			"prize": "First Prize (Male): ₹4000<br>Second Prize (Male): ₹2000<br>First Prize (Female): ₹4000<br>Second Prize (Female): ₹2000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Farzeen:</h4>9809552233<br><h4>Ananthu Nair:</h4>8281107593"
+		}
+
+
+	],
+	"MUSIC": [{
+			"id": "EID033",
+			"name": "Acoustics",
+			"description": " 'Most people have just lives, very few ones have music.' With music, and a team to keep it alive, gear up to battle it out among the best bands from across the country. Play the right notes and beats, and enthrall the audience with electrifying performances.",
+			"prize": "First Prize: ₹12000<br>Second Prize: ₹8000<br>Third prize: ₹5000",
+			"contact": "<h4>Ayush Jacob:</h4>9946692681<br><h4>Neelima John:</h4>9447912648<br><h4>Varun Praveen:</h4>9567055150<br><h4>Divyansh:</h4>7994238338"
+		},
+		{
+			"id": "EID034",
+			"name": "Amplified",
+			"description": " Ragam invites you to bring in numbing, rebellious notes in the ultimate battle of bands. Feel the levels set a notch higher as bands shake you up with their new alt-rock beats. Step up and strike a chord to win yourself fame, fans and a lifetime of celebrating music at Amplified – one of the biggest inter-collegiate battle wars in South India.",
+			"prize": "First Prize: ₹25000<br>Second Prize: ₹15000<br>Third prize: ₹10000",
+			"contact": "<h4>Gokul Venu:</h4>7356548200<br><h4>Balaji:</h4>8089002132<br><h4>Aditya:</h4>9003003699"
+		},
+		{
+			"id": "EID035",
+			"name": "Rajan Memorial Light Music Solo",
+			"description": " What can be greater than a sweet voice that can leave a crowd tangled to its emotions. Do you think you have the melody in you to mesmerize the ones lending their ears? Get on stage this Ragam and unleash the singer in you.",
+			"prize": "Best Male Singer: ₹20000<br>Best Female Singer: ₹20000 ",
+			"contact": "h4>Supraja:</h4>9494058968"
+		},
+
+		{
+			"id": "EID036",
+			"name": "String Solo",
+			"description": " Heart and compassion beyond measure is what makes music the greatest treasure. But when do know you're good? Only when you test yourself. This Ragam, bring out all that you've got in the greatest battle of strings as you go against the best instrumentalists out there. Keep up the competition as you might end up striking just the right chord.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000<br>Third prize: ₹1000",
+			"contact": "<h4>Mathew:</h4>9495386413<br><h4>Sooraj K Nair:</h4>8281944626<br><h4>Snehitha:</h4>7036165436"
+		},
+
+		{
+			"id": "EID037",
+			"name": "Swararaaga",
+			"description": " Let your emotions resonate through the sweet escape that is music, through fusions of Carnatic music and rock. Indulge in the dynamic medleys of ragas and rock in the ultimate eastern band face-off this Ragam.",
+			"prize": "First Prize: ₹12000<br>Second Prize: ₹8000<br>Third prize: ₹5000",
+			"contact": "<h4>Gokul KP:</h4>8943626722<br><h4>Sachin R:</h4>9847356339<br><h4>Adityan Asokan:</h4>9995245409"
+		},
+		{
+			"id": "EID038",
+			"name": "Western Solo",
+			"description": " To portray an emotion. To paint a picture. To narrate a story through the power of music. That's what it means to sing. This Ragam, tell the world your story as you give the performance of a lifetime in 'Western Solo'.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000<br>Third prize: ₹1000",
+			"contact": "<h4>Malavika:</h4>9995462228<br><h4>Aditya:</h4>9003003699<br><h4>Sukith:</h4>8891170199"
+		},
+
+		{
+			"id": "EID051",
+			"name": "Acapella",
+			"description": " After silence, that which comes nearest to expressing the inexpressible is music. The human voice is the most intricate instrument of all, as it can make you feel what mere words can't. Bring out the Barden Bellas and Treble Makers as your voices replace all accompaniment to find that perfect harmony",
+			"prize": "First Prize: ₹7500<br>Second Prize: ₹5000<br>Third prize: ₹2500",
+			"contact": "<h4>Malavika:</h4>9995462228<br><h4>Athul:</h4>8943680758"
+		}
+	],
+	"LITERARY": [{
+			"id": "EID039",
+			"name": "Debate (English)",
+			"description": "Every debate helps you develop as an individual, building your character by increasing your general awareness and developing a sense of empathy. This Ragam, the debater in you will have to navigate through some of the world's most pressing issues and address lingering concerns associated with each of them. So, let the battle for the crown begin!",
+			"prize": "First Prize: ₹5000<br>Second Prize: ₹3000<br>Third prize: ₹2000",
+			"contact": "<h4>Gokul KK:</h4>9447643820<br><h4>Ayush:</h4>9946692681"
+		},
+		{
+			"id": "EID040",
+			"name": "Debate (Mal)",
+			"description": "Listen and be listened to. The best platform for enthusiastic debaters to present their views and ideas, where no voices are excluded. Come witness the colorful contrast in opinions and ideologies as Ragam unites the finest debaters from all across the state with the Malayalam Debate.",
+			"prize": "First Prize: ₹5000<br>Second Prize: ₹3000<br>Third prize: ₹2000",
+			"contact": "<h4>Ayush:</h4>9946692681"
+		},
+		{
+			"id": "EID041",
+			"name": "JAM (English)",
+			"description": "<strong>Bang</strong> Incoherent speech. <strong>Bang</strong> Stuttering. <strong>Bang</strong> Late start. <strong>Bang Bang</strong>. Baffle your opponents, take hold of that one minute and articulate each word with precision. No pauses, no distractions and no mistakes. Ready. Set. GO!",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000<br>Third prize: ₹1000",
+			"contact": "<h4>Ayush:</h4>9946692681"
+		},
+		{
+			"id": "EID042",
+			"name": "JAM (Mal)",
+			"description": "Sharp wits and quick replies are your best friends in this war of words. Offence is the best defense as you fight against all odds to stand your ground. Get your game face on, battle it out and see if you got what it takes to last a minute in JAM Malayalam.",
+			"prize": "First Prize: ₹3000<br>Second Prize: ₹2000<br>Third prize: ₹1000",
+			"contact": "<h4>Ayush:</h4>9946692681"
+		},
+		{
+			"id": "EID043",
+			"name": "Kavitha Parayanam",
+			"description": "Recitation is about conveying a poem's sense with its language. Bring out the voice of your poem in Kavithaparayanam as you set sail confidently as its vessel, letting the words do its trick.",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1250<br>Third prize: ₹750",
+			"contact": "<h4>Aysha Thahseen:</h4>9496395635<br><h4>Anjali James:</h4>9400561089<br><h4>Navya U:</h4>9633973554"
+		},
+		{
+			"id": "EID044",
+			"name": "Mock Court",
+			"description": "'There is no such thing as Justice in court, only cold, hard facts.' This Ragam, step into the shoes of a lawyer, faced with the task of resolving a seemingly impossible case. In Mock Court, anything can happen, as we take a step away from reality, into a realm where we can truly let our imagination run wild.",
+			"prize": "First Prize: ₹6000<br>Second Prize: ₹4000",
+			"contact": "<h4>Gokul KK:</h4>9447643820<br><h4>Mufeed:</h4>8137054202<br><h4>Harshini:</h4>9037528102"
+		},
+		{
+			"id": "EID045",
+			"name": "Reporter",
+			"description": "'The story controls the reporter.' This Ragam, turn the tables as you control the story with careful choice of words and rivet the audience's attention throughout your presentation. Display your oratory finesse as you report hard hitting news with a dash of satire and humor.",
+			"prize": "First Prize: ₹1500<br>Second Prize: ₹1000<br>Third Prize: ₹500",
+			"contact": "<h4>Ayush:</h4>994669268<br><h4>Gokul K.P.:</h4>8943626722<br><h4>Saurav S:</h4>9497192016"
+		},
+		{
+			"id": "EID046",
+			"name": "Slam Poetry",
+			"description": "At Slam poetry, let the beauty in your words, flow from the chaos of your soul. Stop the noise in your mind from swallowing your words and turn them into something meaningful. Fill your paper with the beatings of your heart and speak up!",
+			"prize": "First Prize: ₹2000<br>Second Prize: ₹1250<br>Third Prize: ₹750",
+			"contact": "<h4>Navya Dennis:</h4>9447643820<br><h4>Divyansh:</h4>7994238338"
+		},
+		{
+			"id": "EID047",
+			"name": "Whats the Good Word",
+			"description": "Pack up your thesaurus, brush up your vocab and sharpen your brain; here's one for the word junkies. Will you fall as a mere dilettante or emerge gallant and victorious? When it comes to word games, you've got to bring your A-game.",
+			"prize": "First Prize: ₹1500<br>Second Prize: ₹1000<br>Third Prize: ₹500",
+			"contact": "<h4>Gokul K.P.:</h4>8943626722>Malavika:</h4>9995462228<br><h4>Elizabeth:</h4>9497056384"
+		},
+		{
+			"id": "EID053",
+			"name": "Spell Bee",
+			"description": "Does every new word challenge you to spell it out in your head? Does the sly presence of ‘p’  psychiatrist make you smirk and wonder how silly letters can be? Is the dictionary your favourite book?  A champion of spellings or a newbie looking for fun, this is your place to be. Come participate in the Ragam spelling bee and have an invigourating.. err.. invigorating experience.",
+			"prize": "First Prize: ₹1500<br>Second Prize: ₹1000<br>Third Prize: ₹500",
+			"contact": "<h4>Gokul K.P.:</h4>8943626722>Gokul K K:</h4>9447643820<br><h4>Elizabeth:</h4>9497056384"
+		}
+	],
+	"QUIZZING": [{
+			"id": "EID048",
+			"name": "College SPENT Quiz",
+			"description": "Got a thing for sports, entertainment or quizzes? College SPENT Quiz has it all. Wreck your brains on mind boggling quizzes that will challenge your knowledge in areas of sports and entertainment. If taking up a new challenge is your thing, we'll see you at Open SPENT Quiz!",
+			"prize": "First Prize: ₹4000<br>Second Prize: ₹2500<br>Third Prize: ₹1500",
+			"contact": "<h4>Eric:</h4>9847239596<br><h4>Aakansh:</h4>8137037316"
+		},
+		{
+			"id": "EID049",
+			"name": "Open General Quiz",
+			"description": "Have you ever wondered what it takes to have an incisive, inquisitive, insightful and irreverent mind? Knowledge and knowledge only. This Ragam sweat it out against some of the best quizzers. Challenge your knowledge, rack up your nerves, bring out your best, for anything less won't suffice.",
+			"prize": "First Prize: ₹4000<br>Second Prize: ₹2500<br>Third Prize: ₹1500",
+			"contact": "<h4>Snehitha:</h4>7036165436<br><h4>Sooraj:</h4>8281944626<br><h4>Eric:</h4>9847239596"
+		},
+		{
+			"id": "EID050",
+			"name": "Open MELA Quiz",
+			"description": "Don your quizzing hats and delve into popular culture as Ragam brings you the platform where your knack for knowledge gets you ahead. Here's where endless hours of binge watching, and movie nights finally pay off. Compete against each other over Music, Entertainment, Literature and Arts to find out if you have what it takes to triumph over the rest.",
+			"prize": "First Prize: ₹4000<br>Second Prize: ₹2500<br>Third Prize: ₹1500",
+			"contact": "<h4>Shankar:</h4>9037055564<br><h4>Aakansh:</h4>8137037316<br><h4>Sahana:</h4>9494459748"
+		}
+	],
+	"RAGNAROK":[
+		{
+			"id":"EID054",
+			"name":"Counter Strike GO",
+			"description":"Step back, reload and step out of the covers as some of the finest gamers in this coutry battle it out at Ragam. Prepare your team for the ultimate showdown and destroy your opponents",
+			"prize":"<h4> First Prize: </h4>₹15000<br><h4>Second Prize:</h4> ₹10000",
+			"contact":"<h4>Varun:</h4>9567055150<br><h4>Adityan:</h4>9995245409"
+		},
+		{
+			"id":"EID055",
+			"name":"FIFA",
+			"description":"Step on the field, tie up your laces and sprint towards the goal as RAGAM'18 prepares the ultimate showdown for FIFA enthusiasts. It's time to ignite your team spirit, step up your game and dribble yourself to victory. Let the adrenaline kick in while you battle it out until the final whistle.",
+			"prize":"First Prize: ₹5000<br>Second Prize: ₹3000",
+			"contact":" <h4>Varun:</h4>9567055150<br><h4>Adityan:</h4>9995245409 "
+		},
+		{
+			"id":"EID056",
+			"name":"Need For Speed",
+			"description":"The exhaust jolts as it feels the power of the engine. The anticipation intensifies with each rev. Put the pedal to the metal and leave the rest behind. Quench your Need for Speed. ",
+			"prize":"First Prize: ₹5000<br>Second Prize: ₹3000",
+			"contact":" <h4>Varun:</h4>9567055150<br><h4>Adityan:</h4>9995245409 "
+		},
+		{
+			"id":"EID057",
+			"name":"Rainbow 6",
+			"description":"Cheat codes win games, but the right weapons and moves win championships. So get practicing and watch virtual greatness happen aroung you. PS:Don't get killed! ",
+			"prize":"First Prize: ₹15000<br>Second Prize: ₹10000",
+			"contact":" <h4>Varun:</h4>9567055150<br><h4>Adityan:</h4>9995245409 "
+		}
+	]
+}

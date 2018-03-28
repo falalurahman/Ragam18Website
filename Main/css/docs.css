@@ -1,0 +1,263 @@
+@font-face {
+	font-family: headingFont;
+	src: url(../fonts/kilogram.ttf);
+}
+
+@font-face {
+	font-family: contentFont;
+	src: url(../fonts/secretDiary.ttf);
+}
+
+body{
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background: url('../image/back.jpg') no-repeat center;
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+
+.canvas{
+	width: 60vw;
+	height: 70vh;
+	margin: 10vh auto;
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	-ms-transition: 1s;
+	-o-transition: 1s;
+	transition: 1s;
+	transform: rotate(-15deg);
+}
+
+.fullpage_canvas{
+	width: 100vw;
+	height: 100vh;
+	margin: 0 0;
+	transform: rotate(0deg);
+}
+
+#book-zoom{
+	-webkit-transition: -webkit-transform 1s;
+	-moz-transition: -moz-transform 1s;
+	-ms-transition: -ms-transform 1s;
+	-o-transition: -o-transform 1s;
+	transition: transform 1s;
+}
+
+.animated{
+	-webkit-transition:margin-left 0.2s ease-in-out;
+	-moz-transition:margin-left 0.2s ease-in-out;
+	-o-transition:margin-left 0.2s ease-in-out;
+	-ms-transition:margin-left 0.2s ease-in-out;
+	transition:margin-left 0.2s ease-in-out;
+}
+
+.sample-docs{
+	width:60vw;
+	height:70vh;
+}
+
+.fullpage_sample-docs {
+	margin-top: 0;
+}
+
+.sample-docs .page{
+
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.2);
+	-moz-box-shadow:0 0 20px rgba(0,0,0,0.2);
+	-ms-box-shadow:0 0 20px rgba(0,0,0,0.2);
+	-o-box-shadow:0 0 20px rgba(0,0,0,0.2);
+	box-shadow:0 0 20px rgba(0,0,0,0.2);
+	overflow: scroll;
+
+}
+
+::-webkit-scrollbar {
+	width: 0px;  /* remove scrollbar space */
+	background: transparent;  /* optional: just make scrollbar invisible */
+}
+/* optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+	width: 0px;
+	background: transparent;
+}
+
+.sample-docs .even .gradient{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-image:url(../image/right-border.png);
+	background-position:right top;
+	background-repeat: repeat-y;
+}
+
+.sample-docs .odd .gradient{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background-image:url(../image/left-border.png);
+	background-position:left top;
+	background-repeat: repeat-y;
+}
+
+.sample-docs .page-wrapper{
+	-webkit-perspective:2000px;
+	-moz-perspective: 2000px;
+	-ms-perspective: 2000px;
+	perspective: 2000px;
+}
+
+.sample-docs .shadow{
+	-webkit-transition: -webkit-box-shadow 0.5s;
+	-moz-transition: -moz-box-shadow 0.5s;
+	-o-transition: -webkit-box-shadow 0.5s;
+	-ms-transition: -ms-box-shadow 0.5s;
+
+	-webkit-box-shadow:0 0 20px #000;
+	-moz-box-shadow:0 0 20px #000;
+	-o-box-shadow:0 0 20px #000;
+	-ms-box-shadow:0 0 20px #000;
+	box-shadow:0 0 20px #000;
+}
+
+.left_page_style{
+	background: url('../image/leftPage.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.right_page_style{
+	background: url('../image/rightPage.jpg') no-repeat center;
+	background-size: cover;
+}
+
+.page_container{
+	width: 100%;
+	padding: 3vh 2vw 3vh 5vw;
+	box-sizing: border-box;
+}
+
+.event_category{
+	width: 20vw;
+	height: 33vh;
+}
+
+.event_category1{
+	width: 17vw;
+	height: 33vh;
+}
+
+.heading_page{
+	font-size: 10vh;
+	color: #4c3030;
+	margin-top: 8vh;
+	margin-left: 5vw;
+	font-family: headingFont;
+}
+
+.category_name{
+	font-family: contentFont;
+	font-size: 3vh;
+	color: #4c3030;
+}
+
+.writeup{
+	font-family: contentFont;
+	font-size: 2.3vh;
+	color: #4c3030;
+	line-height: 32px;
+}
+
+.category_container{
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	cursor: pointer;
+}
+
+.first_page{
+	background: url("../image/front.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.image_half{
+	width: 46vw;
+	margin-left: 2vw;
+}
+
+.button{
+	padding: 10px 25px;
+	background: #4c3030;
+	color: #f0e8db;
+	margin-top: 30px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.nav_bar{
+	text-align: right;
+	padding-right: 2vw;
+}
+
+.nav_button{
+	width: 5vw;
+	height: 18vh;
+	cursor: pointer;
+	margin-left: 1vw;
+}
+
+
+
+
+.center{
+	text-align: center;
+	font-family: contentFont;
+	font-size: 1vw;
+	color: #4c3030;
+	position: absolute;
+	display: none;
+}
+.committee{
+	width: 18vw;
+	display: inline-block;
+	padding: 1vw;
+	text-align: center;
+	background: #4c3030;
+	color: #f0e8db;
+	font-family: contentFont;
+	margin: 0.4vw;
+	cursor: pointer;
+}
+
+.committee_heading{
+	font-size: 4vh;
+	text-decoration: underline;
+}
+
+.member{
+	display: inline-block;
+	width: 40%;
+	margin: 1vw;
+}
+
+.photo{
+	width: 100%;
+}
+
+.center a{
+	text-decoration: none;
+	color: #4c3030;
+}
+
+.fa{
+	font-size: 1.6vw !important;
+	margin: 0 0.3vw;
+}
+
+.visible{
+	display: block;
+}
